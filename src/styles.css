@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+.parent {
+    background-color: #1abc9c;
+    color: white;
+    padding: 100px;
+}
+
+.line {
+    width: 90px;
+    height: 4px;
+    background-color: wheat;
+    margin-inline: 16px;
+}
+
+.active {
+    background-color: #1abc9c;
+    border-radius: 11px;
+}
